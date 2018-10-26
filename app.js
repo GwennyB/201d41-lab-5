@@ -108,8 +108,7 @@ numbers, and the second element is a string that EXACTLY follows this example an
 IMPORTANT DETAIL: You may not use the arithmetic operator * in this function. To do multiplication, use your multiply() function that you've already created. 
 You're going to have to be resourceful to figure out how to do this. This function should handle an array containing three elements.
 
-Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiplyArray() function and 
-see if the test passes.*/
+Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiplyArray() function and see if the test passes.*/
 
 // Write your code here
 function multiplyArray(multArr) { //eslint-disable-line
